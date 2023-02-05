@@ -1,3 +1,8 @@
+//  File: /config/app.js
+//  Name: Wai Lim Leung
+//  ID  : 301276989
+//  Date: Feb 1, 2023
+
 var createError = require('http-errors');
 var express = require('express');
 var path = require('path');
