@@ -1,0 +1,24 @@
+1. Install Express.js
+https://expressjs.com/en/starter/generator.html
+
+2. In CMD
+npm install -g express-generator
+
+3. Install express
+express -e
+
+4. Go to web site Bootstrp and click Docs.
+
+5. Terminal
+npm install bootstrap --save
+npm install jquery --save
+npm install popper  --save
+npm install @fortawesome/fontawesome-free --save
+
+
+7. FontAwesome web site have code template for copy.
+<i class="fa-solid fa-house-chimney-window"></i>
+
+
+
+

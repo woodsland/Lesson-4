@@ -1,0 +1,29 @@
+1. Create folder "config" in VSS under Lesson 4.
+
+2. Move app.js to folder "config".
+
+3. in app.js, change path from "public" to "../public", etc
+
+4. in server.js, change ./app to .config/app
+
+5. under folder "config", create db.js
+module.export =
+{
+    "URI":"mongodb://localhost/book_store"
+}
+
+6. Open new Termial and install "npm install mongoose --save"
+
+7. In config/app.js, add connect mongo db script.
+
+8. In DOS
+    mongod
+    mongosh
+    - use book_store
+    - show collections
+
+9. Deployment
+    Use Centennial and AZURT, or use Render
+
+
+
